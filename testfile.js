@@ -2,4 +2,5 @@ var a =[];
 var b = [];
 var c =[];
 
-var d = [];
+var d = [];adsfadf
+asdasf
